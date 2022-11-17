@@ -1,0 +1,10 @@
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\bin\Debug\PizzaShop.exe.config
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\bin\Debug\PizzaShop.exe
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\bin\Debug\PizzaShop.pdb
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\obj\Debug\PizzaShop.csprojResolveAssemblyReference.cache
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\obj\Debug\PizzaShop.Form1.resources
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\obj\Debug\PizzaShop.Properties.Resources.resources
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\obj\Debug\PizzaShop.csproj.GenerateResource.Cache
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\obj\Debug\PizzaShop.exe
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\obj\Debug\PizzaShop.pdb
+D:\vp\LABS\Lab-04\PizzaShop\PizzaShop\obj\Debug\PizzaShop.Form2.resources
